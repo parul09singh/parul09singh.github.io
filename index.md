@@ -1,6 +1,6 @@
 # Links
-[Angular - Official Cheatsheet](https://angular.io/guide/cheatsheet)
-[About](about){:target="_blank"}
+- [Angular - Official Cheatsheet](https://angular.io/guide/cheatsheet)
+- [About](about){:target="_blank"}
 
 ## Welcome to GitHub Pages
 
