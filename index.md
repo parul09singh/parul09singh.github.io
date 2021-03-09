@@ -6,7 +6,7 @@
 # Projects
 
 - [Notes](notes){:target="_blank"}
-- [Advance CSS](advance-css){:target="_blank"}
+- [Advance CSS](css-natours){:target="_blank"}
 
 # References
 - [Angular - Official Cheatsheet](https://angular.io/guide/cheatsheet)
